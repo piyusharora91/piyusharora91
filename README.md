@@ -2,27 +2,21 @@
 
 <h3 align="center">I Love to Build Web App Interfaces and getting things done.</h3>
 
-<p align="center">
+
+<p align="left">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 </p>
 
-
-<div>
-<strong>About Me:</strong><br>
-💻 I’m currently working as an intern at Nicholas Actuarial Solutions<br>
-📚 I’m a final year Actuarial Science undergraduate in University of Malaya<br>
-📈 I experienced in Actuarial Statistics, Data Analysis, Data Visualization and Forecasting<br>
-🏆 My certifications: 
-<ul>
-  <li>SOA: Exam FM, Exam P</li>
-  <li>ICDL: Cloud Computing, Digital Marketing, Spreadsheets, Presentation and Online Collaboration</li>
-  <li>Coursera: SAS Visual Business Analytics</li>
-  <li>DataCamp: Shiny Fundamentals, Statistics Fundamentas and Spreadsheet Fundamentals with R Track</li>
-</ul>
-📫 Reach me at <a href="mailto:piyush.arora91@hotmail.com">piyush.arora91@hotmail.com</a><br>
-😄 Find me on <a href="https://www.linkedin.com/in/piyusharora2212/" target="_blank">Linkedin</a><br><br><br>
-
-
+  <strong>About Me:</strong><br>
+    💻 I’m currently working as an intern at Nicholas Actuarial Solutions<br>
+    📚 I’m a final year Actuarial Science undergraduate in University of Malaya<br>
+    📈 I experienced in Actuarial Statistics, Data Analysis, Data Visualization and Forecasting<br>
+    🏆 My certifications: 
+    <ul>
+  </ul><br><br>
+  
+<h3 align="center">My Tech Stack :-</h3>
+  
 Property                 | Data  
 -------------------------|------
 Web Skills               |   [![HTML Badge](https://img.shields.io/badge/-HTML-orange)](https://github.com/piyusharora91?tab=repositories) [![CSS Badge](https://img.shields.io/badge/-CSS-blue)](https://github.com/piyusharora91?tab=repositories) [![Javascript Badge](https://img.shields.io/badge/-JavaScript-yellow)](https://github.com/piyusharora91?tab=repositories) [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-purple)](https://github.com/piyusharora91?tab=repositories) [![Python Badge](https://img.shields.io/badge/-Python-3776AB)](https://github.com/piyusharora91?tab=repositories) [![React Badge](https://img.shields.io/badge/-ReactJS-61DAFB)](https://github.com/piyusharora91?tab=repositories) [![jQuery Badge](https://img.shields.io/badge/-jQuery-4ac7b6)](https://github.com/piyusharora91?tab=repositories) [![NodeJS Badge](https://img.shields.io/badge/-NodeJS-68b082)](https://github.com/piyusharora91?tab=repositories) [![SASS Badge](https://img.shields.io/badge/-SASS-d36ef5)](https://github.com/piyusharora91?tab=repositories) [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-99173a)](https://github.com/piyusharora91?tab=repositories) [![PHP Badge](https://img.shields.io/badge/-PHP-8b9c0b)](https://github.com/piyusharora91?tab=repositories) [![Flask Badge](https://img.shields.io/badge/-Flask-e6e6e1)](https://github.com/piyusharora91?tab=repositories) [![Responsive Design Badge](https://img.shields.io/badge/-ResponsiveDesign-d6db48)](https://github.com/piyusharora91?tab=repositories) [![Cross Browser Compatibility Badge](https://img.shields.io/badge/-CrossBrowserCompatibility-de0b16)](https://github.com/piyusharora91?tab=repositories)
