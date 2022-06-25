@@ -1,11 +1,26 @@
 <h1 align="center">Hi , I'm Piyush Arora <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
+<h3 align="center">I Love to Build Web App Interfaces and getting things done.</h3>
 
+<p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-  
 </p>
 
+
+<div>
+<strong>About Me:</strong><br>
+💻 I’m currently working as an intern at Nicholas Actuarial Solutions<br>
+📚 I’m a final year Actuarial Science undergraduate in University of Malaya<br>
+📈 I experienced in Actuarial Statistics, Data Analysis, Data Visualization and Forecasting<br>
+🏆 My certifications: 
+<ul>
+  <li>SOA: Exam FM, Exam P</li>
+  <li>ICDL: Cloud Computing, Digital Marketing, Spreadsheets, Presentation and Online Collaboration</li>
+  <li>Coursera: SAS Visual Business Analytics</li>
+  <li>DataCamp: Shiny Fundamentals, Statistics Fundamentas and Spreadsheet Fundamentals with R Track</li>
+</ul>
+📫 Reach me at <a href="mailto:piyush.arora91@hotmail.com">piyush.arora91@hotmail.com</a><br>
+😄 Find me on <a href="https://www.linkedin.com/in/piyusharora2212/" target="_blank">Linkedin</a><br><br><br>
 
 
 Property                 | Data  
@@ -15,6 +30,4 @@ Version Control          | [![Git Badge](https://img.shields.io/badge/-Git-156e7
 Operating Systems        | [![Windows Badge](https://img.shields.io/badge/-Windows-61DAFB)](https://github.com/piyusharora91?tab=repositories) [![Linux Badge](https://img.shields.io/badge/-Linux-purple)](https://github.com/piyusharora91?tab=repositories) [![MacOS Badge](https://img.shields.io/badge/-MacOS-68b082)](https://github.com/piyusharora91?tab=repositories)
 Projects                 | [![Hash Generator Badge](https://img.shields.io/badge/-HashGenerator-b469c3)](https://online-hashing101.netlify.app/) [![Humanoid Badge](https://img.shields.io/badge/-Humanoid-yellow)](https://humanoid101.netlify.app/)
 Reach Me                 | [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-grey?style=flat)](https://piyush-arora.netlify.app) [![Mail Badge](https://img.shields.io/badge/-PiyushArora-e54448?style=flat&logo=Mail.Ru&logoColor=white)](mailto:piyush.arora91@hotmail.com) [![Linkedin Badge](https://img.shields.io/badge/-PiyushArora-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-arora2212/)
-
-
 
