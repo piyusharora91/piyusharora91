@@ -4,9 +4,9 @@
  
  ## 🧭 &nbsp;About Me
 
-- 📚 Information System student at UFPI.
-- 🌱  I’m always studying **JavaScript**, **ReactJS**, **Python** **and always learning new stuff**.
-- 💬 Ask me about any of the above **technology** or would you like to setup an **Interview**? Check out my (**Resume**)(https://drive.google.com/file/d/1ih6TCNMIYNUe0Q0ntWE5KgyB0MlWzDmD/view?usp=sharing)
+- 📚 FreeCodeCamp certified.
+- 🌱  Presenting My Expertise in **JavaScript**, **ReactJS**, **Python** **and always learning new stuff**.
+- 💬 Ask me about any of the above **technology** or would you like to setup an **Interview**? Checkout my [Resume](https://drive.google.com/file/d/1ih6TCNMIYNUe0Q0ntWE5KgyB0MlWzDmD/view?usp=sharing).
 
 
 
