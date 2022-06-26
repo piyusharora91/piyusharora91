@@ -1,19 +1,19 @@
 <h1 align="center">Hi , I'm Piyush Arora <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">I Love to Build Web App Interfaces and getting things done.</h3>
+ 
+ ## 🧭 &nbsp;About Me
+
+- 📚 Information System student at UFPI.
+- 🌱  I’m always studying **JavaScript**, **ReactJS**, **Python** **and always learning new stuff**.
+- 💬 Ask me about any of the above **technology** or would you like to setup an **Interview**? Check out my (**Resume**)(https://drive.google.com/file/d/1ih6TCNMIYNUe0Q0ntWE5KgyB0MlWzDmD/view?usp=sharing)
 
 
-<p align="left">
+
+<p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 </p>
 
-  <strong>About Me:</strong><br>
-    💻 I’m currently working as an intern at Nicholas Actuarial Solutions<br>
-    📚 I’m a final year Actuarial Science undergraduate in University of Malaya<br>
-    📈 I experienced in Actuarial Statistics, Data Analysis, Data Visualization and Forecasting<br>
-    🏆 My certifications: 
-    <ul>
-  </ul><br><br>
   
 <h3 align="center">My Tech Stack :-</h3>
   
