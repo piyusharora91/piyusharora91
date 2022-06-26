@@ -25,3 +25,9 @@ Operating Systems        | [![Windows Badge](https://img.shields.io/badge/-Windo
 Projects                 | [![Hash Generator Badge](https://img.shields.io/badge/-HashGenerator-b469c3)](https://online-hashing101.netlify.app/) [![Humanoid Badge](https://img.shields.io/badge/-Humanoid-yellow)](https://humanoid101.netlify.app/)
 Reach Me                 | [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-grey?style=flat)](https://piyush-arora.netlify.app) [![Mail Badge](https://img.shields.io/badge/-PiyushArora-e54448?style=flat&logo=Mail.Ru&logoColor=white)](mailto:piyush.arora91@hotmail.com) [![Linkedin Badge](https://img.shields.io/badge/-PiyushArora-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-arora2212/)
 
+
+------
+
+Credit: [Piyush Arora](https://piyush-arora.netlify.app)
+
+Last Edited on: 26/06/2022
