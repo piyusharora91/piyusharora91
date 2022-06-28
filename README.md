@@ -6,7 +6,7 @@
 
 - 📚 FreeCodeCamp certified.
 - 🌱  Presenting My Expertise in Modern Web Technologies like **JavaScript**, **Python** and JS Libraries like **React-JS**, **jQuery**.
-- 💬 Ask me about any of the above **technology** or would you like to setup an **Interview**? Checkout my [Resume](https://drive.google.com/file/d/1ih6TCNMIYNUe0Q0ntWE5KgyB0MlWzDmD/view?usp=sharing).
+- 💬 Ask me about any of the above **technology** or would you like to setup an **Interview**? Checkout my [Resume](https://drive.google.com/file/d/1SZq_-xpM0EsXv7DQC1CM2Bkur7Q4jLmV/view?usp=sharing).
 
 
 
@@ -30,4 +30,4 @@ Reach Me                 | [![Portfolio Badge](https://img.shields.io/badge/-Por
 
 Credit: [Piyush Arora](https://piyush-arora.netlify.app)
 
-Last Edited on: 26/06/2022
+Last Edited on: 28/06/2022
