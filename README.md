@@ -6,7 +6,7 @@
 
 - 📚 FreeCodeCamp certified.
 - 🌱  Presenting My Expertise in Modern Web Technologies like **JavaScript**, **Python** and JS Libraries like **React-JS**, **jQuery**.
-- 💬 Ask me about any of the above **technology**, or would you like to setup an **Interview**? Checkout my [Resume](https://drive.google.com/file/d/1rKezOYrlvdXajjNJFl-hlaErUeoI1pxc/view).
+- 💬 Ask me about any of the above **technology**, or would you like to setup an **Interview**? Checkout my [Resume](https://drive.google.com/file/d/1KKRFAj2Bqax-j4Gq4LcCu140RnkdBCGi/view).
 
 
 
