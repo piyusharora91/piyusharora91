@@ -6,8 +6,7 @@
 - I build highly Responsive (Mobile-First) Websites/Single Page Applications with modern web development technologies that include HTML, CSS, BootStrap, Vanilla JS & React, but not just limited to these.  
 
 - I also have 2 years of professional experience for Agile Software Management while providing L2 Production Support for international clients and maintaining 100% uptime of the tier 1 banking applications like MTS.   
-
-- As part of being a Web Developer, I’m also comfortable working with version controls such as Github, Gitlab, and Bitbucket.  
+ 
 - While continuously upgrading my tech stack & good communication skills I’ll prove to be playing a vital role in any Team/Project that I partake in.   
 
 - 💬 Ask me about any of the above **technologies**, or would you like to setup an **Interview**? Checkout my [Resume](https://drive.google.com/file/d/1KKRFAj2Bqax-j4Gq4LcCu140RnkdBCGi/view).
