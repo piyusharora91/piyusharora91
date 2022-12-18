@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Piyush Arora <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">A FrontEnd Web Developer who Loves to Build Pixel Perfect Web App Interfaces.</h3>
+<h3 align="center">A FrontEnd Web Developer & Web Designer who Loves to Build Pixel Perfect Web App Interfaces.</h3>
  
  ## 🧭 &nbsp;About Me
 - I build highly Responsive (Mobile-First) Websites/Single Page Applications with modern web development technologies that include HTML, CSS, BootStrap, Vanilla JS & React, but not just limited to these.  
