@@ -15,7 +15,7 @@
  
 - While continuously upgrading my tech stack & good communication skills I’ll prove to be playing a vital role in any Team/Project that I partake in.   
 
-- 💬 Ask me about any of the above **technologies**, or would you like to setup an **Interview**? Checkout my [Resume](https://drive.google.com/file/d/1zq0nxdZsNK1MealsXBSJh2Xqngli1ciH/view).
+- 💬 Ask me about any of the above **technologies**, or would you like to setup an **Interview**? Checkout my [Resume](https://drive.google.com/file/d/1qp7HQTuCLrL1ll98823TIrkDvyyP7LWX/view).
 
 
 
