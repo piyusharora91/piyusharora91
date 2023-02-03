@@ -3,13 +3,19 @@
 <h3 align="center">A FrontEnd Web Developer & Web Designer who Loves to Build Pixel Perfect Web App Interfaces.</h3>
  
  ## 🧭 &nbsp;About Me
-- I build highly Responsive (Mobile-First) Websites/Single Page Applications with modern web development technologies that include HTML, CSS, BootStrap, Vanilla JS & React, but not just limited to these.  
+- Ability to Websites / Single Page Applications with Modern Web Development Technologies that include HTML, CSS, BootStrap, Vanilla JS & React, but not just limited to these.  
 
-- I also have 2 years of professional experience for Agile Software Management while providing L2 Production Support for international clients and maintaining 100% uptime of the tier 1 banking applications like MTS.   
+- Ability To Build Highly Responsive (Mobile-First) User Interfaces of Sites / Single Page Applications.
+
+- Knowledgeable with React Testing Library because Tests are one of the Key Requirements for Well-Developed Applications.
+
+- With Hands On Experience in Figma, Canva. I made sure to grasp the key Design Skills which eventually helps me for Building Better User Interfaces in a more Efficient & Productive way.
+
+- With 2 years of professional experience for Agile Software Management as Operations Executive in Infosys, while providing L2 Production Support for international clients and maintaining 100% uptime of the tier 1 banking applications like MTS.   
  
 - While continuously upgrading my tech stack & good communication skills I’ll prove to be playing a vital role in any Team/Project that I partake in.   
 
-- 💬 Ask me about any of the above **technologies**, or would you like to setup an **Interview**? Checkout my [Resume](https://drive.google.com/file/d/1_ZsQwhw6gWofxqlld4VVGdoA61toqxvv/view).
+- 💬 Ask me about any of the above **technologies**, or would you like to setup an **Interview**? Checkout my [Resume](https://drive.google.com/file/d/1zq0nxdZsNK1MealsXBSJh2Xqngli1ciH/view).
 
 
 
