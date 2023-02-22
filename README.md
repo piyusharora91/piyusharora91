@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Piyush Arora <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">A FrontEnd Web Developer & Web Designer who Loves to Build Pixel Perfect Web App Interfaces.</h3>
+<h3 align="center">A FrontEnd Web Developer with the Ability to Build Pixel Perfect Web App Interfaces.</h3>
  
  ## 🧭 &nbsp;About Me
 - Ability to Websites / Single Page Applications with Modern Web Development Technologies that include HTML, CSS, BootStrap, Vanilla JS & React, but not just limited to these.  
@@ -15,7 +15,7 @@
  
 - While continuously upgrading my tech stack & good communication skills I’ll prove to be playing a vital role in any Team/Project that I partake in.   
 
-- 💬 Ask me about any of the above **technologies**, or would you like to setup an **Interview**? Checkout my [Resume](https://drive.google.com/file/d/1qp7HQTuCLrL1ll98823TIrkDvyyP7LWX/view).
+- 💬 Ask me about any of the above **technologies**, or would you like to setup an **Interview**? Checkout my [Resume](https://drive.google.com/file/d/162kuCIouf_CVzpZzEiKhYARmTRpgPK02/view).
 
 
 
@@ -33,7 +33,7 @@ Design Skills            | [![Figma badge](https://img.shields.io/badge/-Figma-F
 Version Control          | [![Git Badge](https://img.shields.io/badge/-Git-156e73)](https://github.com/piyusharora91?tab=repositories) [![GitHub Badge](https://img.shields.io/badge/-GitHub-8989e0)](https://github.com/piyusharora91?tab=repositories) [![GitLab Badge](https://img.shields.io/badge/-GitLab-e87910)](https://github.com/piyusharora91?tab=repositories)
 Agile Methodoligies      | [![Kanban Badge](https://img.shields.io/badge/-Kanban-9519F4)](https://github.com/piyusharora91?tab=repositories)
 Operating Systems        | [![Windows Badge](https://img.shields.io/badge/-Windows-61DAFB)](https://github.com/piyusharora91?tab=repositories) [![Linux Badge](https://img.shields.io/badge/-Linux-purple)](https://github.com/piyusharora91?tab=repositories) [![MacOS Badge](https://img.shields.io/badge/-MacOS-68b082)](https://github.com/piyusharora91?tab=repositories)
-Projects                 | [![Hash Generator Badge](https://img.shields.io/badge/-HashGenerator-b469c3)](https://online-hashing101.netlify.app/) [![Humanoid Badge](https://img.shields.io/badge/-Humanoid-yellow)](https://humanoid101.netlify.app/)
+Projects                 | [![INF Amazing Patterns Badge](https://img.shields.io/badge/-INFAmazingPatterns-8C8C8C)](https://inf-amazing-patterns.netlify.app/) [![Hash Generator Badge](https://img.shields.io/badge/-HashGenerator-b469c3)](https://online-hashing101.netlify.app/)  [![Humanoid Badge](https://img.shields.io/badge/-Humanoid-yellow)](https://humanoid101.netlify.app/) [![BookList Badge](https://img.shields.io/badge/-Booklists-ffffff)](https://custom-book-lists101.netlify.app/) [![Animated-Navbar Badge](https://img.shields.io/badge/-AnimatedNavbar-311557)](https://animated-navbar-101.netlify.app/)
 Reach Me                 | [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-grey?style=flat)](https://piyush-arora.netlify.app) [![Linkedin Badge](https://img.shields.io/badge/-PiyushArora-1A4FBF?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-arora2212/) [![CodePen Badge](https://img.shields.io/badge/-PiyushArora-10621E?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/piyusharora91) [![Twitter Badge](https://img.shields.io/badge/-PiyushArora-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Piyush_Arora91) [![Mail Badge](https://img.shields.io/badge/-PiyushArora-e54448?style=flat&logo=Mail.Ru&logoColor=white)](mailto:piyush.arora91@hotmail.com)
 
 
