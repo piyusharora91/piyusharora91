@@ -41,4 +41,4 @@ Reach Me                 | [![Portfolio Badge](https://img.shields.io/badge/-Por
 
 Credit: [Piyush Arora](https://piyush-arora.netlify.app)
 
-Last Edited on: 03/02/2023
+Last Edited on: 22/02/2023
